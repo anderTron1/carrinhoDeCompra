@@ -17,13 +17,20 @@ main {
 .produtos, .carrinho {
     background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    width: 40%;
     border-radius: 10px;
     padding: 20px;
 }
 .lista-produtos{
     display: flex;
     justify-content: space-around;
+}
+
+.produtos{
+    width: 70%;
+}
+
+.carrinho{
+    width: 20%;
 }
 
 .produto{
