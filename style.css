@@ -25,9 +25,17 @@ main {
     display: flex;
 }
 
+.produto{
+    border: 1px solid #ccc;
+}
+
 .add-item{
     background-color: rgb(5, 248, 5);
     border: none;
     padding: 5px 15px;
     color: white;
+}
+
+.add-item:hover{
+    background-color: rgb(3, 197, 3);
 }
