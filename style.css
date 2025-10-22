@@ -35,6 +35,7 @@ main {
 
 .produto{
     border: 1px solid #ccc;
+    width: 220px;
 }
 
 .add-item{
